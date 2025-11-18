@@ -11,6 +11,9 @@ import {
   SafeAreaProvider,
   useSafeAreaInsets,
 } from 'react-native-safe-area-context';
+import { Config } from 'react-native-config';
+
+console.log('ConfigValue :', Config.CONFIG_VALUE);
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
