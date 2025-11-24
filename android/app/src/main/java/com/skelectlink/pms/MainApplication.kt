@@ -1,4 +1,4 @@
-package com.configtest
+package com.skelectlink.pms
 
 import android.app.Application
 import com.facebook.react.PackageList

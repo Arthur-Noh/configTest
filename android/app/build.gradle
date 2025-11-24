@@ -79,7 +79,7 @@ android {
 
     namespace "com.configtest"
     defaultConfig {
-        applicationId "com.configtest"
+        applicationId "com.skelectlink.pms"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

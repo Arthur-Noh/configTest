@@ -1,4 +1,4 @@
-package com.configtest
+package com.skelectlink.pms
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
